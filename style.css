@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand {
+    font-size: 2rem;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.navbar-brand:hover{
+color: black;
+}
+.nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    color:black;
+    text-transform:uppercase;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.nav-link:hover{
+    color:black;
+}
+.search{
+    height:40px;
+    width: 80%;
+    border-radius:60px;
+    outline:none;
+    border: 2px solid rgb(248, 193, 26);
+    margin-right:-35px;
+}
+.btn0{
+    height:40px;
+    width: 40%;
+    outline:none;
+    border:none;
+    background: rgb(248, 193, 26);
+    color:white;
+    border-radius: 60px;
+    font-weight:700;
+}
+.main{
+    background:url(sunflower-seeds-concept-tasty-snack-concept-harvest_185193-164237.avif)no-repeat;
+    background-size:cover;
+    height:100vh;
+    background-position: 50% 50%;
+    width:100%;
+
+}
+.main h1{
+    font-size: 3rem;
+    font-weight:700;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.btn1{
+    height:45px;
+    width:35%;
+    border:none;
+    outline:none;
+    background-color:dimgray;
+    color: white;
+    font-weight:700;
+    border-radius:60px;
+}
+.btn1:hover{
+    background-color:rgb(248, 193, 26);
+    transition:0.5s;
+}
+h1{
+    font-weight:700;
+}
+.card:hover{
+    -webkit-box-shadow: 5px 28px 41px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 28px 41px 2px rgba(0,0,0,0.75);
+    box-shadow: 5px 28px 41px 2px rgba(0,0,0,0.75);
+    transition:0.5s;
+}
+.girl{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(sunflower-seeds-concept-tasty-snack-concept-harvest_185193-164237.avif)no-repeat;
+    background-size: cover;
+    height:80vh;
+    width: 100%;
+
+}
+.girl h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.news{
+    background-color:black;
+    color:white;
+}
+.btn2{
+    height:45px;
+    width:100px;
+    background:white;
+    margin-left:-10px;
+    border:2px solid white;
+    font-weight:600;
+}
+.news input{
+    height: 45px;
+    width:55%;
+    border: 2px solid white;
+    outline:none;
+    background:black;
+    color:white;
+    margin-top:20px;
+    font-weight:600;
+}
+.news ::placeholder{
+    color:white;
+}
+.news p{
+margin:0;
+}
+.fa-brands{
+    font-size:2.5rem;
+    cursor:pointer;
+    padding-right:5px;
+}
