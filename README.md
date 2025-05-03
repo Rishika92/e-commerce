@@ -4,7 +4,7 @@ This is a **fully responsive E-Commerce Website** built using **HTML**, **CSS**,
 
  🚀 Features
 
-✅ Responsive design (works on desktop, tablet, and mobile)  
+✅ Responsive design (works on desktop, tablet, and mobile)  .
 ✅ Homepage with hero banner and product highlights . 
 ✅ Contact and footer sections and more..
 ✅ Built entirely with **HTML5**, **CSS3**, and **Bootstrap 5**
